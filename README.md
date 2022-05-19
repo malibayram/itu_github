@@ -1,6 +1,6 @@
 # itu_github
 
-#### 11 Mayıs 2022 Son Tarihli Udemy Kuponları
+#### 19 Haziran 2022 Son Tarihli Udemy Kuponları
 
 - [Temel Git ve GitHub Eğtimi](https://www.udemy.com/course/temel-git-ve-github-egtimi/?couponCode=SEDACIFTCI)
 - [Yeni Başlayanlar için Terminal Kullanımı ve Temel Komutlar](https://www.udemy.com/course/yeni-baslayanlar-icin-terminal-kullanm-ve-temel-komutlar/?couponCode=SEDACIFTCI)
