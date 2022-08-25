@@ -1,6 +1,6 @@
 # itu_github
 
-#### 9 Eylül 2022 Son Tarihli Udemy Kuponları
+#### 9 Eylül 2022 Son Tarihli Ücretsiz Udemy Kuponları
 
 - [Temel Git ve GitHub Eğtimi](https://www.udemy.com/course/temel-git-ve-github-egtimi/?couponCode=TWITTER)
 - [Yeni Başlayanlar için Terminal Kullanımı ve Temel Komutlar](https://www.udemy.com/course/yeni-baslayanlar-icin-terminal-kullanm-ve-temel-komutlar/?couponCode=TWITTER)
